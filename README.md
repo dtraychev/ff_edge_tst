@@ -1,4 +1,5 @@
-# Firefox minimal Tree Style Tab
+# Firefox Edge
+A Firefox config for Edge like view with side tabs.
 
 This is my custom setting of userChrome and TST config based on [FlyingFox](https://github.com/akshat46/FlyingFox).
 
